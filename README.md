@@ -22,7 +22,7 @@
 ---
 ### Usage
 ```sh
-$ python3 sync_files.py -log=log.txt -source=/../Source-Folder -replica=/../Replica-Folder -sync_interval=3
+$ python3 sync_files.py -log=/../log.txt -source=/../Source-Folder -replica=/../Replica-Folder -sync_interval=3
 ```
 ---
 Note - Sync interval is in seconds.
